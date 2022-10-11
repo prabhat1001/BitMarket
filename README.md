@@ -1,21 +1,5 @@
 # BitMarket
 
-<h3>BitMarket is a price-tracking website for crypto assets in the rapidly growing cryptocurrency space.<h3>
-<br>
-
-![BitMarket-Brand](https://user-images.githubusercontent.com/71027441/195088353-69306a7c-013a-4052-98eb-1ec9c43d5b6b.jpg)
-<br>
-
-![Bitmarket-1](https://user-images.githubusercontent.com/71027441/195089031-36dd64f5-11c7-46ae-9d00-dfc25e4df9bc.png)
-<br>
-
-![Bitmarket-2](https://user-images.githubusercontent.com/71027441/195089270-ada508e6-4516-4a05-b9f5-703956931c5c.png)
-<br>
-
-<br>
-
-------------
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
