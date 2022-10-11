@@ -48,7 +48,7 @@ function Header() {
             >
               <img
                 style={{ width: "70px" }}
-                src="../WhatsApp Image 2021-11-16 at 11.21.31 AM.jpeg"
+                src="../Bit-Market-logo.png"
               />
             </Typography>
 
